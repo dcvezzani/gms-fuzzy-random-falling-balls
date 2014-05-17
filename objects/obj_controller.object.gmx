@@ -36,6 +36,8 @@
   coll_hor = "";
   coll_vert = "";
   coll_ball = -1;
+  
+  randomize();
 }
 
 </string>
